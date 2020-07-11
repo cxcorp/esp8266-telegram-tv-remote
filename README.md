@@ -18,3 +18,10 @@ On its way from JLCPCB.
 
 ![](https://raw.githubusercontent.com/cxcorp/esp8266-telegram-tv-remote/master/img/pcb_render2.png)
 ![](https://raw.githubusercontent.com/cxcorp/esp8266-telegram-tv-remote/master/img/pcb_render.png)
+
+
+## License
+
+The Arduino project under `esp8266-telegram-tv-remote/` is licensed under GPLv3. See COPYING under said directory.
+
+The KiCAD project under `kicad/` is not licensed for now.
