@@ -10,6 +10,10 @@ On its way from JLCPCB.
 
 ![](https://raw.githubusercontent.com/cxcorp/esp8266-telegram-tv-remote/master/img/sch.png)
 
+### Breadboard
+
+![](https://raw.githubusercontent.com/cxcorp/esp8266-telegram-tv-remote/master/img/breadboard.jpg)
+
 ### Layout
 
 ![](https://raw.githubusercontent.com/cxcorp/esp8266-telegram-tv-remote/master/img/pcb.png)
