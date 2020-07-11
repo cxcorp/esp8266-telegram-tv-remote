@@ -21,11 +21,11 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #include <UniversalTelegramBot.h>
 #include "Remote.h"
 
-#define WIFI_SSID "***REMOVED***"
-#define WIFI_PSK "***REMOVED***"
-#define TG_TOKEN "***REMOVED***"
+#define WIFI_SSID "<ssid>"
+#define WIFI_PSK "<psk>"
+#define TG_TOKEN "<token>"
 
-const String chatIdWhitelist[] = {"***REMOVED***"};
+const String chatIdWhitelist[] = {"<chat id>"};
 const char *TG_API_FINGERPRINT = "F2 AD 29 9C 34 48 DD 8D F4 CF 52 32 F6 57 33 68 2E 81 C1 90";
 
 esp8266::polledTimeout::oneShotMs tgPollTimeout(1000);
