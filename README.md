@@ -1,11 +1,12 @@
 # esp8266-telegram-tv-remote
 
-ESP8266 based Telegram Bot which lets me change the brightness of my TV via IR.
+ESP8266 Telegram Bot which lets me control my TV with an IR LED.
 
-## PCB
+## Assembly
 
-From JLCPCB.
+PCB from JLCPCB.
 
+![](https://raw.githubusercontent.com/cxcorp/esp8266-telegram-tv-remote/master/img/assembly.jpg)
 ![](https://raw.githubusercontent.com/cxcorp/esp8266-telegram-tv-remote/master/img/pcb-photo-rev-1.0.0.jpg)
 
 ### Schematic
