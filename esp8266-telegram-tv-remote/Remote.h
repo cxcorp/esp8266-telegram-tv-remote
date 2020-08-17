@@ -28,6 +28,10 @@ namespace Remote {
 #define BUTTON_LEFT 0xE0E0A659
 #define BUTTON_RIGHT 0xE0E046B9
 #define BUTTON_EXIT 0xE0E0B44B
+#define BUTTON_PWR 0xE0E040BF
+#define BUTTON_VOL_UP 0xE0E0E01F
+#define BUTTON_VOL_DOWN 0xE0E0D02F
+#define BUTTON_MUTE 0xE0E0F00F
 
 class Remote {
 public:
